@@ -1,0 +1,27 @@
+.black_dot{
+    top: -50px;
+    position: relative;
+}
+
+.black_dot span{
+    width: 100px;
+    height: 100px;
+    background: #000;
+    margin: auto;
+    border: 2px solid #fff;
+    border-radius: 100%;
+  
+    
+}
+
+.bg_block {
+    background: black;
+    padding: 50px 100px;
+    color: #fff;
+}
+
+@media(max-width: 576px){
+    .bg_block{
+        padding: 50px 10px;
+    }
+}

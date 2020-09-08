@@ -1,0 +1,21 @@
+footer{
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    padding: 6px;
+    min-height: 50px;
+
+}
+.f_nav{
+    padding: 0;
+}
+.f_nav li{
+    list-style: none;
+    display:inline;
+    margin: 4px;
+}
+
+footer .fa{
+    background: none;
+    padding: 5px;
+}

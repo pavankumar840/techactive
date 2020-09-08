@@ -1,0 +1,27 @@
+.header_user img{
+    width:  70px;
+    height: 70px;
+    margin: 0 5px;
+    border-radius: 100%;
+}
+
+li a{
+    color: #2B2A2C;
+    font-weight: bold;
+    font-size-adjust: 14px;
+}
+
+.burger {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  }
+
+@media(max-width: 991px) {
+    .collapse.show {
+        display: block;
+        background: #b7b3b3;
+        padding: 10px;
+    }
+}
